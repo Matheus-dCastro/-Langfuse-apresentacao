@@ -1,0 +1,18 @@
+{
+  "name": "mlops-apresentacao",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langfuse/otel": "^5.14.0",
+    "@langfuse/tracing": "^5.14.0",
+    "@opentelemetry/sdk-node": "^0.223.2",
+    "dotenv": "^18.0.10"
+  }
+}
